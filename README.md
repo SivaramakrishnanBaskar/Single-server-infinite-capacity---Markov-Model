@@ -20,10 +20,16 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Experiment:
 
+![image](https://github.com/SivaramakrishnanBaskar/Single-server-infinite-capacity---Markov-Model/assets/119476322/b1ee9a2c-bf05-4574-9cef-f4cf91f374b5)
+
+![image](https://github.com/SivaramakrishnanBaskar/Single-server-infinite-capacity---Markov-Model/assets/119476322/8eb3815d-a849-44d7-b2f9-72091dfee960)
+
 
  
 ## Program
 ```
+Name: Sivaramakrishnan B
+Reg No: 212222110044
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
 Robot_time=float(input("Enter the Additional time taken for the Robot (in secs) :  "))
